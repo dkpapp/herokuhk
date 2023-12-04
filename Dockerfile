@@ -1,1 +1,7 @@
-RUN docker run -p 80:80 dkpgit/hkwzx:latest
+FROM dkpgit/hkwzx:latest
+
+# Set up your application and dependencies
+
+EXPOSE 8080
+
+CMD ["bash", "start.sh"]
