@@ -1,0 +1,1 @@
+RUN docker run -p 80:80 dkpgit/hkwzx:latest
