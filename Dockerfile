@@ -1,4 +1,4 @@
-FROM dkpgit/hkwzx:latest
+FROM dkpgit/hkwzml:latest
 
 # Set up your application and dependencies
 
